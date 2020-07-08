@@ -4,7 +4,7 @@ import urllib.request
 import colorama
 """
 ---------------------------------------------------
-Coder : Mr Zanax
+Coder : NeoWise
 Version : 1.0
 'Cyber Turkish'
 ---------------------------------------------------
@@ -12,7 +12,7 @@ Version : 1.0
 
 colors=['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m']
 
-_phone = input('Ülke Kodu İle Numara Gir Lamer Seni:')
+_phone = input('Ülke Kodu İle Numara Gir :')
 print("Örnek : +905556677889")
 _name = ''
 
