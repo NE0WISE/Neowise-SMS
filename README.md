@@ -1,4 +1,4 @@
-# Zanax-sms 
+# NEOWISE-SMS
 
 $ apt update && apt upgrade 
 
@@ -8,7 +8,7 @@ $ pkg install python
 
 $ git clone https://github.com/NE0WISE/Neowise-SMS
 
-$ cd Zanax-sms
+$ cd NEOWISE-SMS.py
 
 $ ls 
 
@@ -19,4 +19,4 @@ $ bash Kurulum.sh
 $ (Hedef No ) +90xxxXXXxxx
 
 
-Cyber Turkish Mr- Neowise Hiç bir sorumluluk kabul etmiyorum.
+Cyber Turkish Mr-Neowise Hiç bir sorumluluk kabul etmiyorum.
