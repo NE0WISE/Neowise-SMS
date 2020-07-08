@@ -1,4 +1,5 @@
-# Zanax-sms
+# Zanax-sms 
+# Hedef Numarayı SMS yağmuruna tutma 
 
 $ apt update && apt upgrade 
 
@@ -19,4 +20,4 @@ $ bash Kurulum.sh
 $ (Hedef No ) +90xxxXXXxxx
 
 
-Cyber Turkish Mr-Zanax Hiç bir sorumluluk kabul etmiyorum şaka şaka tadını çıkarın.
+Cyber Turkish Mr-Zanax Hiç bir sorumluluk kabul etmiyorum.
