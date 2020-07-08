@@ -1,5 +1,4 @@
 # Zanax-sms 
-# Hedef Numarayı SMS yağmuruna tutma 
 
 $ apt update && apt upgrade 
 
