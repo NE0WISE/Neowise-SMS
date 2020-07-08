@@ -6,7 +6,7 @@ $ pkg install git
 
 $ pkg install python 
 
-$ git clone https://github.com/MR-ZaNaX/Zanax-sms
+$ git clone https://github.com/NE0WISE/Neowise-SMS
 
 $ cd Zanax-sms
 
@@ -19,4 +19,4 @@ $ bash Kurulum.sh
 $ (Hedef No ) +90xxxXXXxxx
 
 
-Cyber Turkish Mr-Zanax Hiç bir sorumluluk kabul etmiyorum.
+Cyber Turkish Mr- Neowise Hiç bir sorumluluk kabul etmiyorum.
