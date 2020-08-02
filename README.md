@@ -9,7 +9,7 @@ Aralıksız Hedef Numarayı SMS Yağmuruna Tutan Bu Araç İnsanı Gerçekten De
 * `$ pkg install git` 
 * `$ pkg install python` 
 * `$ git clone https://github.com/NE0WISE/Neowise-SMS`
-* `$ cd NEOWISE-SMS.`
+* `$ cd Neowise-SMS`
 * `$ ls` 
 * `$ chmod +x *` 
 * `$ bash Kurulum.sh` 
