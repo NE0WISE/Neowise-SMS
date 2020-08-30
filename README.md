@@ -2,7 +2,7 @@
 
 
 ## NEOSMS
-Linux ve Termux için açık kaynaklı bir SMS / çağrı bombardıman uçağı.. 
+Linux ve Termux için açık kaynaklı bir SMS / çağrı bombardıman aracı.. 
 
 # KURULUM
 * `$ apt update && apt upgrade` 
