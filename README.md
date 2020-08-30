@@ -2,7 +2,7 @@
 
 
 ## NEOSMS
-Aralıksız Hedef Numarayı SMS Yağmuruna Tutan Bu Araç İnsanı Gerçekten Deliye Çeviriyor Hatta Telefon da Kasma Uygulamalarda Hata Verme v.b Gibi Sonuçlar Gösterebiliyor. Eğer Saldırıyı Durdurmazsanız Ne Olur Bilmem Ben Hiç Denemedim Neyse Orası Size Kalmış Artık Eğlence İçin mi Kullanırsınız Kötü Amaçlamı Kullanırsınız Bilmem.Araç Sorumluluğu Kesinlikle Kullanıcıya Ait dir. 
+Linux ve Termux için açık kaynaklı bir SMS / çağrı bombardıman uçağı.. 
 
 # KURULUM
 * `$ apt update && apt upgrade` 
@@ -15,5 +15,6 @@ Aralıksız Hedef Numarayı SMS Yağmuruna Tutan Bu Araç İnsanı Gerçekten De
 * `$ bash Kurulum.sh` 
 * `$ (Hedef No ) +90xxxXXXxxx`
 
+## BTC CÜZDAN : 15VkfWnihwSKgKB1cHW2pXUxvk5r5HN8Yc
 
-Cyber Turkish Mr-Neowise 
+## MR_NEOWISE
