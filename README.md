@@ -15,6 +15,7 @@ Linux ve Termux için açık kaynaklı bir SMS / çağrı bombardıman aracı..
 * `$ bash Kurulum.sh` 
 * `$ (Hedef No ) +90xxxXXXxxx`
 
-## BTC CÜZDAN : 15VkfWnihwSKgKB1cHW2pXUxvk5r5HN8Yc
-
 ## MR_NEOWISE
+
+`Support (BTC) = 15VkfWnihwSKgKB1cHW2pXUxvk5r5HN8Yc`
+
