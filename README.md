@@ -19,3 +19,15 @@ Linux ve Termux için açık kaynaklı bir SMS / çağrı bombardıman aracı..
 
 `Support (BTC) = 15VkfWnihwSKgKB1cHW2pXUxvk5r5HN8Yc`
 
+
+
+
+
+<p align="center">
+  Abone Ol / Follow Me On
+</p>
+<p align="center">
+  <a href="http://youtube.com/channel/UCYeFf4gpfaDgPHDzKVshmNg/">
+    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
+  </a>
+
