@@ -9,4 +9,4 @@ echo "<font color=aqua>Dosya Yükleniyor ...</font>"
 echo "<font color=aqua>Dosyalar Yüklendi.</font>"
 echo "<font color=aqua>Kullanım Kişiye Aittir.</font>"
 echo "<font color=aqua>Program Açılıyor ...</font>"
-python3 smsattack.py
+python3 neo-sms.py
